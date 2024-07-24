@@ -1,6 +1,22 @@
     {
     "data": [
         {
+            "name": "ADIA Lab Causal Discovery Challenge",
+            "url": "https://www.crunchdao.com/live/adia-lab-causal-discovery-challenge",
+            "type": "🔧 Engineering",
+            "tags": [
+                "science",
+                "causality",
+                "supervised",
+            ],
+            "launched": "1 Aug 2024",
+            "registration-deadline": "24 Oct 2024",
+            "deadline": "24 Oct 2024",
+            "prize": "$100,000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab",
+        },
+        {
             "name": "ML for Computational Fluid Dynamics",
             "url": "https://www.codabench.org/competitions/3282/?ref=mlcontests",
             "type": "🔧 Engineering",
